@@ -1,4 +1,4 @@
-# Guía-GitHub-y-Git
+# Guía GitHub y Git
 Guía para aprender a usar GitHub y Gits
 
 ## Que neceistaremos para utilizar Git
